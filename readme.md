@@ -1,3 +1,3 @@
 # Sketchbook tour uploads
 
-A simple app to keep track of sketchbook tour videos I'd like to upload
+A simple app to keep track of sketchbook tour videos I'd like to uploads
